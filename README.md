@@ -29,7 +29,7 @@ mkdir build
 cd build
 cmake ../
 make
-sudo make install
+make install
 ```
 
 Or read on for more detailed instructions below...
